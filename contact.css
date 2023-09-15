@@ -70,6 +70,7 @@
 }
 .container-right-left h1{
     font-family: 'Bebas Neue', sans-serif;
+    color: #0F2C59;
     letter-spacing: 0.45rem;
     padding: 1.5rem;
 }
@@ -77,6 +78,7 @@
     font-size: 80px;
 }
 .container-right-left p{
+  color: #0F2C59;
     font-size: 40px;
     padding-left: 2%;
     padding-bottom: 5%;

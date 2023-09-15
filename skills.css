@@ -70,6 +70,7 @@
 }
 .container-right-left h1,h2{
   font-family: 'Bebas Neue', sans-serif;
+  color: #0F2C59;
   letter-spacing: 0.45rem;
   padding: 1.5rem;
 }
@@ -83,10 +84,12 @@
   display: flex;
   flex-direction: column;
   padding: 0.5em;
+  padding-left: 5%;
   font-size: 24px;
   font-style: Arial, Helvetica, sans-serif; 
 }
 .education li{
+  
   line-height: 2em;
 }
 
